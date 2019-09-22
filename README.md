@@ -1,2 +1,2 @@
 # cs50
-For All CS50 related work
+This Repository Contains all CS50 Related tasks
